@@ -8,6 +8,7 @@
 ## Coding
 - Jet Brains Mono
 - Roboto Mono
+- FiraCode
   
 ## Signature / Fancy
 - Water Fall
